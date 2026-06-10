@@ -1,5 +1,3 @@
-# student-performance-intelligence-system
-Data Mining project implementing classification, clustering, explainable AI, and real-time prediction on the Student Performance Factors dataset.
 # Student Performance Analysis and Prediction Dashboard
 
 An interactive data mining dashboard developed to analyze student academic performance, identify behavioral patterns, explain machine learning predictions, and support data-driven educational decision making.
