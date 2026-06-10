@@ -171,8 +171,10 @@ streamlit run Home.py
 
 ## Authors
 
-Group 6
-
 Data Mining Final Project
+
+Group 12
+Putri Anggraeni (24051214020)
+Agia Nariswari Wardhani (24051214028)
 
 Universitas Negeri Surabaya
